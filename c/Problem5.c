@@ -1,0 +1,1 @@
+//just implement euclid's algo for gcm then convert to lcm
