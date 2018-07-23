@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int isPalindrome(int);
+
 int main() {
     int mult1 = 999;
     int mult2 = 999;
@@ -21,6 +22,7 @@ int main() {
     return 0;
 }
 
+//i'm pretty sure i should do something with malloc here but not yet
 int isPalindrome(int test) {
     //int *number = (int *)malloc(sizeof(int));
 
